@@ -1,3 +1,7 @@
+# NOTE:
+dataset, frames and runs were to large to include in github but can be access through the following link
+[Dataset, Frames, Runs](https://drive.google.com/drive/folders/18VdYt2_1BsA3h6iqAKRzxiIJ1wVhBXUw?usp=sharing)
+
 # YOLOv8 Animal Behavior Detection
 
 This project trains and tests a YOLOv8 model to detect animal behavior in videos. The dataset was created by annotating frames extracted from videos, and the YOLO model was fine-tuned on this custom dataset.
